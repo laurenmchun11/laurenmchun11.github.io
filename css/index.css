@@ -116,8 +116,8 @@ div.menu ul li a {
   }
 
   .top-container {
-    padding: 4rem 0rem;
-    margin: 4rem 4rem;
+    padding: 2rem 0rem;
+    margin: 0rem 4rem;
     font-size: 2rem;
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -256,5 +256,9 @@ div.menu ul li a {
 }
 
 .homeIcon{
-  height: 50%;
+  height: 40%;
+}
+
+.tagline{
+  padding: 0rem 4rem;
 }

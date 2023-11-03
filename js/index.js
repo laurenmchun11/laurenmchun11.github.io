@@ -4,7 +4,7 @@ const bodyIndex = document.querySelector("#body");
 bodyIndex.innerHTML = `
 <div class="container">
   <div class="top-container">
-    <div class=""> 
+    <div class="tagline"> 
     <p>Hi, my name is <span class="name">Lauren Chun</span>.
     </p>
     <p>I’m a UX Designer, I make emerging technologies easier to use.</p>
